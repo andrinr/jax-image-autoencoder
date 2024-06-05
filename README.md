@@ -1,6 +1,6 @@
 # jax-image-autoencoder
 
-For learning purposes, I implemented an autoencoder using JAX and Flax. 
+Strictly for learning purposes. No guarantee for correctness.
 
 Reconstructing images from their latent space:
 ![reconstruction](reconstruction.png)
